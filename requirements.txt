@@ -1,0 +1,4 @@
+opencv-python
+imutils
+cmake
+face-recognition
