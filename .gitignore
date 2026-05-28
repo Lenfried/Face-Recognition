@@ -1,2 +1,6 @@
-venv/
+.venv/
 __pycache__/
+dataset/
+licenses/
+
+.env
